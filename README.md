@@ -176,11 +176,11 @@ Current output:
 
 ### In Progress
 
-- [ ] JSON Parsing in Spark
-- [ ] Data Transformations
-- [ ] MongoDB Integration
-- [ ] Data Persistence
-- [ ] Analytics Layer
+-  JSON Parsing in Spark
+-  Data Transformations
+-  MongoDB Integration
+-  Data Persistence
+-  Analytics Layer
 
 ---
 
